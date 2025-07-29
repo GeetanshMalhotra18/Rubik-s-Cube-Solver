@@ -1,4 +1,4 @@
-# Rubik-s-Cube-Solver
+# Rubik's-Cube-Solver
 
 A 3x3 virtual Rubik’s Cube solver implementing advanced algorithms including BFS, DFS, IDDFS, and Korf’s IDA.
 
